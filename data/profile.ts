@@ -24,7 +24,7 @@ export const profile: Profile = {
   location: 'India',
   headline:
     'I build ML & LLM systems end-to-end (data → model → deployment), with strong focus on reliability, observability, and cost.',
-  email: 'ajaysarvajeeth@gmail.com',
+  email: 'sarvajeethreddy@gmail.com',
   links: {
     github: 'https://github.com/AjaySarvajeeth',
     linkedin: 'https://www.linkedin.com/in/ajaysarvajeeth/'
