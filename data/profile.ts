@@ -35,10 +35,10 @@ export const profile: Profile = {
     { label: 'Delivery', value: 'End-to-end', note: 'From data pipelines to deployment' }
   ],
   certifications: [
-    'Microsoft Certified: Azure AI Engineer Associate',
-    'Microsoft Certified: Azure Data Scientist Associate',
-    'Databricks Certified Data Engineer Associate',
-    'Google Data Analytics Professional Certificate'
+    'Google Cloud Certified Professional Cloud Architect',
+    'Microsoft certified: Power BI Data Analyst Associate',
+    'ITIL v4 Foundation',
+    'AWS Certified Cloud Practitioner'
   ]
 }
 
